@@ -96,7 +96,6 @@ If you want to run the code as-if you're in production, then update the local .e
 
 Open [http://localhost:5000/connection](http://localhost:5000/connection) in a web browser to test your Rest API. The connection endpoint (http://localhost:5000/connection) will show you some brief documentation and version information for the endpoints.
 
-![API connection information](stats-connection-response.png)
 
 ```shell
   npm run server
