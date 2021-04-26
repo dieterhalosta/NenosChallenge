@@ -1,6 +1,6 @@
 # Nenos Software Coding Challenge
 
-![Preview of challenge](statistics-challenge.gif)
+![Preview of challenge](NenosStatsChallenge.png)
 
 ## Objective
 
